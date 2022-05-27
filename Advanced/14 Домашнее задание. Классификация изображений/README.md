@@ -2,7 +2,7 @@
 
 Страница соревнования Kaggle: https://kaggle.com/c/journey-springfield
 
-Leaderdoard: Яна_Лысова_16538673
+Leaderboard: Яна_Лысова_16538673
 
 Score: **0.99681**
 
